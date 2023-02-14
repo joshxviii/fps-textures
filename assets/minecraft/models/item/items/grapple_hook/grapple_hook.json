@@ -1,0 +1,18 @@
+{
+    "parent": "item/guns/generic_gun_charged",
+    "textures": {
+        "layer0": "item/items/grapple_hook/grapple_hook"
+    },
+    "display": {
+        "firstperson_righthand": {
+            "rotation": [ 0, -100, 50 ],
+            "translation": [ 1.55, 1.6, -1.5],
+			"scale": [ 2, 2, 2]
+        },
+		"firstperson_lefthand": {
+            "rotation": [ 0, 80, -40 ],
+            "translation": [ 1.55, 1.6, 1.5],
+			"scale": [ 2, 2, 2]
+        }
+    }
+}

@@ -1,0 +1,68 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "item/items/armor/parachute/parachute_1",
+		"particle": "item/items/armor/parachute/parachute_1"
+	},
+	"elements": [
+		{
+			"from": [19.90811, -16, 8],
+			"to": [20.40811, 12.45725, 8],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [8, 3.76816, 8]},
+			"faces": {
+				"north": {"uv": [15, 0, 15.5, 14.5], "texture": "#0"},
+				"east": {"uv": [15, 0, 15.5, 14.5], "texture": "#0"},
+				"south": {"uv": [15, 0, 15.5, 14.5], "texture": "#0"},
+				"west": {"uv": [15, 0, 15.5, 14.5], "texture": "#0"},
+				"up": {"uv": [15, 0, 15.5, 14.5], "texture": "#0"},
+				"down": {"uv": [15, 0, 15.5, 14.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [8, -16, 19.90811],
+			"to": [8, 12.45725, 20.40811],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [8, 3.76816, 8]},
+			"faces": {
+				"north": {"uv": [15, 0, 15.5, 14.5], "texture": "#0"},
+				"east": {"uv": [15, 0, 15.5, 14.5], "texture": "#0"},
+				"south": {"uv": [15, 0, 15.5, 14.5], "texture": "#0"},
+				"west": {"uv": [15, 0, 15.5, 14.5], "texture": "#0"},
+				"up": {"uv": [15, 0, 15.5, 14.5], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [15, 0, 15.5, 14.5], "rotation": 270, "texture": "#0"}
+			}
+		},
+		{
+			"from": [-4.40811, -16, 8],
+			"to": [-3.90811, 12.45725, 8],
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [8, 3.76816, 8]},
+			"faces": {
+				"north": {"uv": [15.5, 0, 15, 14.5], "texture": "#0"},
+				"east": {"uv": [15.5, 0, 15, 14.5], "texture": "#0"},
+				"south": {"uv": [15.5, 0, 15, 14.5], "texture": "#0"},
+				"west": {"uv": [15.5, 0, 15, 14.5], "texture": "#0"},
+				"up": {"uv": [15.5, 0, 15, 14.5], "texture": "#0"},
+				"down": {"uv": [15.5, 0, 15, 14.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [8, -16, -4.40811],
+			"to": [8, 12.45725, -3.90811],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 3.76816, 8]},
+			"faces": {
+				"north": {"uv": [15.5, 0, 15, 14.5], "texture": "#0"},
+				"east": {"uv": [15.5, 0, 15, 14.5], "texture": "#0"},
+				"south": {"uv": [15.5, 0, 15, 14.5], "texture": "#0"},
+				"west": {"uv": [15.5, 0, 15, 14.5], "texture": "#0"},
+				"up": {"uv": [15.5, 0, 15, 14.5], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [15.5, 0, 15, 14.5], "rotation": 270, "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [0, 45, 0],
+			"translation": [0, 50.75, 0],
+			"scale": [2.5, 2.5, 2.5]
+		}
+	}
+}

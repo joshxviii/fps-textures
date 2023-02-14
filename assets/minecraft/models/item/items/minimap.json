@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/items/minimap/map",
+        "layer1": "item/items/minimap/map_overlay"
+    }
+}

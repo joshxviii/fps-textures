@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/items/armor/camo_gear/camo_gear_item",
+        "layer1": "item/items/armor/camo_gear/camo_gear_overlay"
+    }
+}

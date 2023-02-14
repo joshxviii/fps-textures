@@ -1,0 +1,12 @@
+{
+    "parent": "item/guns/pistol/pistol",
+    "textures": {
+        "layer0": "item/guns/pistol/pistol"
+    },
+    "display": {
+        "firstperson_righthand": {
+            "rotation": [ 0, -100, 50 ],
+            "translation": [ 1.55, 1.6, -1.5]
+        }
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "item/guns/pistol/pistol",
+    "textures": {
+        "layer0": "item/guns/pistol/pistol_reload_2"
+    }
+}

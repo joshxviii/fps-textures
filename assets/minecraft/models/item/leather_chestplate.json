@@ -1,0 +1,39 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/leather_chestplate",
+        "layer1": "item/leather_chestplate_overlay"
+    },
+  "overrides": [
+		{
+            "predicate": {
+                "custom_model_data": 202
+            },
+            "model": "item/items/armor/parachute/parachute_item"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 203
+            },
+            "model": "item/items/armor/parachute/parachute"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 204
+            },
+            "model": "item/items/armor/parachute/parachute_colors"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 205
+            },
+            "model": "item/items/armor/bodyarmor_item"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 206
+            },
+            "model": "item/items/armor/tshirt"
+        }
+    ]
+}

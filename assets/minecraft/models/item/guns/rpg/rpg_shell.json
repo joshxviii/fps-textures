@@ -1,0 +1,39 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/guns/rpg/rpg_shell"
+    },
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [ -90, -90, -50 ],
+            "translation": [ 0, 0.5, 4 ],
+            "scale": [ 1.2, 1.2, 1.2 ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ -90, 90, 50 ],
+            "translation": [ 0, 0.5, 4 ],
+            "scale": [ 1.2, 1.2, 1.2 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ -90, -90, -15 ],
+            "translation": [ 3.13, 2.6, 1.13],
+            "scale": [ 1.2, 1.2, 1.2 ]
+        },
+		
+		
+		"head": {
+			"rotation": [ -90, -90, -45 ],
+			"translation": [0, 0, 20],
+			"scale": [2.6, 2.6, 2.6]
+		},
+		
+		
+		
+		"ground": {
+            "scale": [ 1.2, 1.2, 1.2 ]
+        },
+		"gui": {
+            "scale": [ 1.5, 1.5, 1.5 ]
+        }
+	}
+}

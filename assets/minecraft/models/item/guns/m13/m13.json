@@ -1,0 +1,6 @@
+{
+    "parent": "item/guns/generic_gun",
+    "textures": {
+        "layer0": "item/guns/m13/m13"
+    }
+}

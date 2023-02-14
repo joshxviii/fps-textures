@@ -1,0 +1,12 @@
+{
+    "parent": "item/guns/m13/m13",
+    "textures": {
+        "layer0": "item/guns/m13/m13"
+    },
+    "display": {
+        "firstperson_righthand": {
+            "rotation": [ 0, -100, 50 ],
+            "translation": [ 1.55, 2.5, -1.5]
+        }
+    }
+}

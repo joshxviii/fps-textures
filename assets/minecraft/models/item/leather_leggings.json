@@ -1,0 +1,21 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/leather_leggings",
+        "layer1": "item/leather_leggings_overlay"
+    },
+  "overrides": [
+		{
+            "predicate": {
+                "custom_model_data": 200
+            },
+            "model": "item/items/armor/camo_gear_item"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 201
+            },
+            "model": "item/items/armor/combat_uniform_item"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "item/meele/iron_door_shield",
+		"particle": "item/meele/iron_door_shield"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 32, 3],
+			"faces": {
+				"north": {"uv": [0, 0, 8, 16], "texture": "#0"},
+				"east": {"uv": [1.5, 0, 0, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 8, 16], "texture": "#0"},
+				"west": {"uv": [1.5, 0, 0, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 8, 1.5], "texture": "#0"},
+				"down": {"uv": [0, 14.5, 8, 16], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [45, -24, 0],
+			"translation": [-2, -8.75, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [45, -24, 0],
+			"translation": [-2, -8.75, 0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [1, -4, 16],
+			"translation": [0, -8, 2.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [1, -4, 16],
+			"translation": [0, -8, 2.5]
+		},
+		"ground": {
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"gui": {
+			"translation": [0, -4, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"head": {
+			"rotation": [90, 0, 0],
+			"translation": [0, 1.5, -8]
+		},
+		"fixed": {
+			"translation": [0, -4, 0],
+			"scale": [0.5, 0.5, 0.5]
+		}
+	}
+}

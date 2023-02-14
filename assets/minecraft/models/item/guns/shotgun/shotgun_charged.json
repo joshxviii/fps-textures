@@ -1,0 +1,6 @@
+{
+    "parent": "item/guns/generic_gun_charged",
+    "textures": {
+        "layer0": "item/guns/shotgun/shotgun"
+    }
+}

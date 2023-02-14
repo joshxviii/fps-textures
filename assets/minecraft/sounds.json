@@ -1,0 +1,524 @@
+{
+
+
+
+
+
+
+
+	
+
+    "gun.fire_small": {
+         "sounds":[
+             {
+                 "name": "item/gun/shoot1_1",
+                 "weight": 1
+             },
+			 {
+                 "name": "item/gun/shoot1_2",
+                 "weight": 1
+             } ,
+			 {
+                 "name": "item/gun/shoot1_3",
+                 "weight": 1
+             } 
+         ],
+		 "subtitle": "Gun shot"
+    },
+	"gun.fire_big": {
+         "sounds":[
+             {
+                 "name": "item/gun/shoot2_1",
+                 "weight": 1
+             },
+			 {
+                 "name": "item/gun/shoot2_2",
+                 "weight": 1
+             } ,
+			 {
+                 "name": "item/gun/shoot2_3",
+                 "weight": 1
+             } 
+         ],
+		 "subtitle": "Gun shot"
+    },
+	"gun.fire_power": {
+         "sounds":[
+             {
+                 "name": "item/gun/shoot3_1",
+                 "weight": 1
+             },
+			 {
+                 "name": "item/gun/shoot3_2",
+                 "weight": 1
+             } ,
+			 {
+                 "name": "item/gun/shoot3_3",
+                 "weight": 1
+             } 
+         ],
+		 "subtitle": "Gun shot"
+    },
+	"gun.fire_fast": {
+         "sounds":[
+             {
+                 "name": "item/gun/shoot4_1",
+                 "weight": 1
+             },
+			 {
+                 "name": "item/gun/shoot4_2",
+                 "weight": 1
+             },
+			 {
+                 "name": "item/gun/shoot4_3",
+                 "weight": 1
+             } 
+         ],
+		 "subtitle": "Gun shot"
+    },
+	"gun.launch": {
+         "sounds":[
+             {
+                 "name": "item/gun/launch1_1",
+                 "weight": 1
+             },
+			 {
+                 "name": "item/gun/launch1_2",
+                 "weight": 1
+             } 
+         ]
+    },
+	
+	
+	
+	
+
+	
+	"gun.fire_small_far": {
+         "sounds":[
+             {
+                 "name": "item/gun/far_shoot1_1",
+                 "weight": 1
+             },
+			 {
+                 "name": "item/gun/far_shoot1_2",
+                 "weight": 1
+             } ,
+			 {
+                 "name": "item/gun/far_shoot1_3",
+                 "weight": 1
+             } 
+         ],
+		 "subtitle": "Distant gun shot"
+    },
+	"gun.fire_big_far": {
+         "sounds":[
+             {
+                 "name": "item/gun/far_shoot2_1",
+                 "weight": 1
+             },
+			 {
+                 "name": "item/gun/far_shoot2_2",
+                 "weight": 1
+             } ,
+			 {
+                 "name": "item/gun/far_shoot2_3",
+                 "weight": 1
+             } 
+         ],
+		 "subtitle": "Distant gun shot"
+    },
+	"gun.fire_power_far": {
+         "sounds":[
+             {
+                 "name": "item/gun/far_shoot3_1",
+                 "weight": 1
+             },
+			 {
+                 "name": "item/gun/far_shoot3_2",
+                 "weight": 1
+             } ,
+			 {
+                 "name": "item/gun/far_shoot3_3",
+                 "weight": 1
+             } 
+         ],
+		 "subtitle": "Distant gun shot"
+    },
+	
+	
+	
+	
+	
+	
+	
+	"gun.bullet": {
+         "sounds":[
+             {
+                 "name": "item/gun/bullet_1",
+                 "weight": 1
+             },
+			 {
+                 "name": "item/gun/bullet_2",
+                 "weight": 1
+             } ,
+			 {
+                 "name": "item/gun/bullet_3",
+                 "weight": 1
+             } 
+         ],
+		 "subtitle": "Bullet flies by"
+    },
+	"gun.bullet_hit": {
+         "sounds":[
+             {
+                 "name": "item/gun/bullet_hit1",
+                 "weight": 1
+             },
+			 {
+                 "name": "item/gun/bullet_hit2",
+                 "weight": 1
+             } ,
+			 {
+                 "name": "item/gun/bullet_hit3",
+                 "weight": 1
+             } 
+         ],
+		 "subtitle": "Bullet impact"
+    },
+	
+	
+	
+	
+	
+	
+	
+	"gun.turret": {
+         "sounds":[
+             {
+                 "name": "item/gun/turret1_1",
+                 "weight": 1
+             }
+         ]
+    },
+	"gun.turret_end": {
+         "sounds":[
+             {
+                 "name": "item/gun/turret_end1_1",
+                 "weight": 1
+             }
+         ],
+		 "subtitle": "Gun shots"
+    },
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	"explosion.close": {
+         "sounds":[
+             {
+                 "name": "item/gun/explosion_1",
+                 "weight": 1
+             }
+         ]
+    },
+	"explosion.far": {
+         "sounds":[
+             {
+                 "name": "item/gun/explosion_2",
+                 "weight": 1
+             }
+         ],
+		 "subtitle": "Distant explosion"
+    },
+		"explosion.very_far": {
+         "sounds":[
+             {
+                 "name": "item/gun/explosion_3",
+                 "weight": 1
+             }
+         ],
+		 "subtitle": "Very distant explosion"
+    },
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	"plane.fly_close": {
+         "sounds":[
+             {
+                 "name": "item/plane/plane_close1_1",
+                 "weight": 1,
+				 "stream": true
+             }
+         ]
+    },
+	"plane.fly_far1": {
+         "sounds":[
+             {
+                 "name": "item/plane/plane_far1_1",
+                 "weight": 1
+             },
+			 {
+                 "name": "item/plane/plane_far1_2",
+                 "weight": 1
+             },
+			 {
+                 "name": "item/plane/plane_far1_3",
+                 "weight": 1
+             },
+			 {
+                 "name": "item/plane/plane_far1_4",
+                 "weight": 1
+             },
+			 {
+                 "name": "item/plane/plane_far1_5",
+                 "weight": 1
+             }
+         ],
+		 "subtitle": "Airplane"
+    },
+	"plane.fly_far2": {
+         "sounds":[
+             {
+                 "name": "item/plane/plane_far2_1",
+                 "weight": 1
+             },
+			 {
+                 "name": "item/plane/plane_far2_2",
+                 "weight": 1
+             },
+			 {
+                 "name": "item/plane/plane_far2_3",
+                 "weight": 1
+             },
+			 {
+                 "name": "item/plane/plane_far2_4",
+                 "weight": 1
+             },
+			 {
+                 "name": "item/plane/plane_far2_5",
+                 "weight": 1
+             }
+         ],
+		 "subtitle": "Airplane"
+    },
+	"plane.fly_far3": {
+         "sounds":[
+             {
+                 "name": "item/plane/plane_far3_1",
+                 "weight": 1
+             },
+			 {
+                 "name": "item/plane/plane_far3_2",
+                 "weight": 1
+             },
+			 {
+                 "name": "item/plane/plane_far3_3",
+                 "weight": 1
+             },
+			 {
+                 "name": "item/plane/plane_far3_4",
+                 "weight": 1
+             },
+			 {
+                 "name": "item/plane/plane_far3_5",
+                 "weight": 1
+             }
+         ],
+		 "subtitle": "Airplane"
+    },
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	"tank.fire_close": {
+         "sounds":[
+             {
+                 "name": "item/gun/tank_1",
+                 "weight": 1
+             }
+         ],
+		 "subtitle": "Tank fires"
+    },
+	"tank.fire_far": {
+         "sounds":[
+             {
+                 "name": "item/gun/tank_2",
+                 "weight": 1
+             }
+         ],
+		 "subtitle": "Distant tank fires"
+    },
+	
+	
+	
+	
+	
+	
+	
+	"vehicle.engine_start": {
+         "sounds":[
+             {
+                 "name": "item/plane/engine_start",
+                 "weight": 1
+             }
+         ],
+		 "subtitle": "Engine starts"
+    },
+	"vehicle.engine_loop": {
+         "sounds":[
+             {
+                 "name": "item/plane/engine_loop",
+                 "weight": 1,
+				 "stream": true
+             }
+         ]
+    },
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	"parachute_open": {
+         "sounds":[
+             {
+                 "name": "item/parachute/parachute_open1",
+                 "weight": 1
+             },
+			 {
+                 "name": "item/parachute/parachute_open2",
+                 "weight": 1
+             },
+			 {
+                 "name": "item/parachute/parachute_open3",
+                 "weight": 1
+             }
+         ],
+		 "subtitle": "Parachute opens"
+    },
+	
+	
+	"sonar_claim": {
+         "sounds":[
+             {
+                 "name": "item/sonar/sonar_claim",
+                 "weight": 1
+             }
+         ],
+		 "subtitle": "Sonar Computer"
+    },
+	"sonar_place": {
+         "sounds":[
+             {
+                 "name": "item/sonar/sonar_scan",
+                 "weight": 1
+             }
+         ],
+		 "subtitle": "Sonar Scanning"
+    },
+	
+	
+	
+	
+	
+	
+	"blaster.bolt": {
+         "sounds":[
+             {
+                 "name": "item/blaster/bolt",
+                 "weight": 1
+             }
+         ],
+		 "subtitle": "Blaster Bolt"
+	},
+	
+	"blaster.big_bolt": {
+         "sounds":[
+             {
+                 "name": "item/blaster/big_bolt",
+                 "weight": 1
+             }
+         ],
+		 "subtitle": "Large Blaster Bolt"
+	},
+	
+	"blaster.charge_start": {
+         "sounds":[
+             {
+                 "name": "item/blaster/charge_start",
+                 "weight": 1
+             }
+         ],
+		 "subtitle": "Blaster Charging"
+	},
+	
+	"blaster.charge_loop": {
+         "sounds":[
+             {
+                 "name": "item/blaster/charge_loop",
+                 "weight": 1
+             }
+         ]
+	},
+	
+	"blaster.charge_full": {
+         "sounds":[
+             {
+                 "name": "item/blaster/charge_max",
+                 "weight": 1
+             }
+         ]
+	},
+	
+	"blaster.swap": {
+         "sounds":[
+             {
+                 "name": "item/blaster/switch_mode",
+                 "weight": 1
+             }
+         ]
+	},
+	
+	"blaster.missle_launch": {
+         "sounds":[
+             {
+                 "name": "item/blaster/missle_fire",
+                 "weight": 1
+             }
+         ]
+	}
+}
+
+
+
+
+
+
+
+
+

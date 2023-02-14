@@ -1,0 +1,28 @@
+{
+    "parent": "item/meele/swords/katana",
+    "textures": {
+        "layer0": "item/meele/katana"
+    },
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [ 0, -45, 55 ],
+            "translation": [ 0, 6.0, 0.5 ],
+            "scale": [ 2, 2, 1 ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ 0, 90, 55 ],
+            "translation": [ 0, 6.0, 2.5 ],
+            "scale": [ 2, 2, 1 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, -30, 100 ],
+            "translation": [ 1.13, 2.8, 1.13 ],
+            "scale": [ 2, 2, 1 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ 0, 90, 25 ],
+            "translation": [ 1.13, 3.2, 1.13 ],
+            "scale": [ 2, 2, 1 ]
+        }
+	}
+}

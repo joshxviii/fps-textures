@@ -1,0 +1,9 @@
+{
+  "textures": [
+    "minecraft:muzzle_flash_0",
+    "minecraft:muzzle_flash_1",
+	"minecraft:muzzle_flash_2",
+	"minecraft:muzzle_flash_3",
+	"minecraft:muzzle_flash_4"
+  ]
+}

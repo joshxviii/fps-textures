@@ -1,0 +1,128 @@
+{
+    "providers": [
+		{
+            "type": "bitmap",
+            "file": "minecraft:item/guns/pistol/pistol.png",
+            "ascent": 25,
+            "height": 40,
+            "chars": ["\uE000"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/guns/rifle/rifle.png",
+            "ascent": 25,
+            "height": 40,
+            "chars": ["\uE001"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/guns/ak/ak.png",
+            "ascent": 25,
+            "height": 40,
+            "chars": ["\uE002"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/guns/shotgun/shotgun.png",
+            "ascent": 25,
+            "height": 40,
+            "chars": ["\uE003"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/guns/sniper/sniper.png",
+            "ascent": 25,
+            "height": 40,
+            "chars": ["\uE004"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/guns/m13/m13.png",
+            "ascent": 25,
+            "height": 40,
+            "chars": ["\uE005"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/guns/rpg/rpg.png",
+            "ascent": 25,
+            "height": 40,
+            "chars": ["\uE006"]
+        },
+		
+		
+		
+		
+
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/items/ammo_1.png",
+            "ascent": 11,
+            "height": 12,
+            "chars": ["\uE100"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/items/ammo_2.png",
+            "ascent": 11,
+            "height": 12,
+            "chars": ["\uE101"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/items/ammo_3.png",
+            "ascent": 11,
+            "height": 12,
+            "chars": ["\uE102"]
+        },
+
+
+
+
+        {
+            "type": "bitmap",
+            "file": "minecraft:text_menu/textbox_1.png",
+            "ascent": 9,
+            "height": 12,
+            "chars": ["\uE200"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:text_menu/textbox_2.png",
+            "ascent": 9,
+            "height": 12,
+            "chars": ["\uE201"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:text_menu/textbox_3.png",
+            "ascent": 9,
+            "height": 12,
+            "chars": ["\uE202"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:text_menu/small_button.png",
+            "ascent": 10,
+            "height": 10,
+            "chars": ["\uE203"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:text_menu/separator.png",
+            "ascent": 6,
+            "height": 6,
+            "chars": ["\uE204"]
+        },
+
+
+
+        {
+            "type": "ttf",
+            "file": "minecraft:negative_spaces.ttf",
+            "shift": [0.0, 0.0],
+            "size": 10.0,
+            "oversample": 1.0
+        }
+    ]
+}

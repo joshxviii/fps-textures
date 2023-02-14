@@ -1,0 +1,26 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/arrow"
+  },
+  "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 100
+            },
+            "model": "item/items/ammo_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 101
+            },
+            "model": "item/items/ammo_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 102
+            },
+            "model": "item/items/ammo_3"
+        }
+	]
+}

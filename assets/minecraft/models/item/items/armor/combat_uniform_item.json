@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/items/armor/combat_uniform/combat_uniform_item",
+        "layer1": "item/items/armor/combat_uniform/combat_uniform_overlay"
+    }
+}

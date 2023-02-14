@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/ender_pearl"
+  },
+  "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "item/pickups/a"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "item/pickups/b"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "item/pickups/c"
+        },
+		
+		
+		
+        {
+            "predicate": {
+                "custom_model_data": 100
+            },
+            "model": "item/items/gernade/gernade"
+        }
+	]
+}

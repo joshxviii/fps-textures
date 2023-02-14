@@ -1,0 +1,146 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/armor_stand"
+  },
+  "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 300
+            },
+            "model": "item/items/crate"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 301
+            },
+            "model": "item/vehicles/turret/turret_a"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 302
+            },
+            "model": "item/vehicles/turret/turret_b"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 303
+            },
+            "model": "item/items/terrorist_head"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 304
+            },
+            "model": "item/guns/rpg/rpg_shell"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 305
+            },
+            "model": "item/vehicles/vehicle"
+        },
+		
+		
+		
+		
+		{
+            "predicate": {
+                "custom_model_data": 306
+            },
+            "model": "item/vehicles/plane/plane_a"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 307
+            },
+            "model": "item/vehicles/plane/plane_b"
+        },
+				{
+            "predicate": {
+                "custom_model_data": 308
+            },
+            "model": "item/vehicles/plane/plane_c"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 309
+            },
+            "model": "item/vehicles/plane/plane_d"
+        },
+				{
+            "predicate": {
+                "custom_model_data": 310
+            },
+            "model": "item/vehicles/plane/plane_e"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 311
+            },
+            "model": "item/vehicles/plane/plane_f"
+        },
+				{
+            "predicate": {
+                "custom_model_data": 312
+            },
+            "model": "item/vehicles/plane/plane_g"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 313
+            },
+            "model": "item/vehicles/plane/plane_h"
+        },
+		
+		
+		
+		
+		
+		
+		
+		
+		{
+            "predicate": {
+                "custom_model_data": 314
+            },
+            "model": "item/vehicles/tank/tank_a"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 315
+            },
+            "model": "item/vehicles/tank/tank_b"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 316
+            },
+            "model": "item/vehicles/tank/tank_c"
+        },
+		
+		
+		
+		
+		
+		
+		{
+            "predicate": {
+                "custom_model_data": 317
+            },
+            "model": "item/items/sonar"
+        },
+		
+		
+		
+		
+		
+		
+		{
+            "predicate": {
+                "custom_model_data": 318
+            },
+            "model": "item/items/gernade/gernade_thrown"
+        }	
+	]
+}

@@ -1,0 +1,28 @@
+{
+    "parent": "item/guns/m13/m13",
+    "textures": {
+        "layer0": "item/guns/m13/m13_reload_0"
+    },
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [ -90, 0, -50 ],
+            "translation": [ 2, 0.1, -3 ],
+            "scale": [ 1.5, 1.5, 1.2 ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ -90, 180, 50 ],
+            "translation": [ 2, 0.1, -3 ],
+            "scale": [ 1.5, 1.5, 1.2 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ -70, 0, -45 ],
+            "translation": [ 8.13, 3.5, 1.13],
+            "scale": [ 1.5, 1.5, 1.2 ]
+        },
+		"firstperson_lefthand": {
+            "rotation": [ -70, 180, -45 ],
+            "translation": [ 8.13, 3.5, 1.13],
+            "scale": [ 1.5, 1.5, 1.2 ]
+        }
+	}
+}

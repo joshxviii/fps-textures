@@ -1,0 +1,20 @@
+{
+  "parent": "minecraft:item/handheld_rod",
+  "textures": {
+    "layer0": "minecraft:item/warped_fungus_on_a_stick"
+  },
+  "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 401
+            },
+            "model": "item/vehicles/vehicle"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 402
+            },
+            "model": "item/vehicles/motorcycle/motorcycle_1"
+        }
+	]
+}

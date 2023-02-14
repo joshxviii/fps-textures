@@ -1,0 +1,21 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/leather_boots",
+        "layer1": "item/leather_boots_overlay"
+    },
+  "overrides": [
+		{
+            "predicate": {
+                "custom_model_data": 200
+            },
+            "model": "item/items/armor/combat_boots_item"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 201
+            },
+            "model": "item/items/armor/army_boots_item"
+        }
+    ]
+}

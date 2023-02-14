@@ -1,0 +1,6 @@
+{
+    "parent": "item/items/grapple_hook/grapple_hook",
+    "textures": {
+        "layer0": "item/items/grapple_hook/grapple_hook_used"
+    }
+}

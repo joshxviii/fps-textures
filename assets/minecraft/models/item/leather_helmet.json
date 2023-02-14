@@ -1,0 +1,21 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/leather_helmet",
+        "layer1": "item/leather_helmet_overlay"
+    },
+  "overrides": [
+		{
+            "predicate": {
+                "custom_model_data": 200
+            },
+            "model": "item/items/armor/combat_helmet_item"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 201
+            },
+            "model": "item/items/armor/pilot_helmet_item"
+        }
+    ]
+}
