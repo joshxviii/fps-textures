@@ -117,6 +117,30 @@
 
 
 
+
+        {
+            "type": "bitmap",
+            "file": "minecraft:text_menu/gamemodes/ffa.png",
+            "ascent": 9,
+            "height": 24,
+            "chars": ["\uE300"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:text_menu/gamemodes/capture_point.png",
+            "ascent": 9,
+            "height": 24,
+            "chars": ["\uE301"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:text_menu/gamemodes/team_deathmatch.png",
+            "ascent": 9,
+            "height": 24,
+            "chars": ["\uE302"]
+        },
+
+
         {
             "type": "ttf",
             "file": "minecraft:negative_spaces.ttf",
