@@ -1,0 +1,6 @@
+{
+	"parent": "item/guns/generic_gun_cooldown",
+	"textures": {
+		"layer0": "item/guns/pistol/pistol"
+	}
+}

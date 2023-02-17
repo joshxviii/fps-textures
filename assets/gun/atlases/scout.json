@@ -1,0 +1,6 @@
+{
+    "textures": {
+        "layer0": "gun:trims/models/armor/scout",
+        "layer1": "gun:trims/models/armor/scout_leggings"
+    }
+}

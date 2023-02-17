@@ -1,0 +1,18 @@
+{
+    "parent": "item/guns/generic_gun_cooldown",
+    "textures": {
+        "layer0": "item/guns/rpg/rpg_charged"
+    },
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [ -90, -90, -50 ],
+            "translation": [ 0, 2.0, 4 ],
+            "scale": [ 1.5, 1.5, 1.5 ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ -90, 90, 50 ],
+            "translation": [ 0, 2.0, 4 ],
+            "scale": [ 1.5, 1.5, 1.5 ]
+        }
+	}
+}

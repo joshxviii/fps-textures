@@ -1,0 +1,21 @@
+{
+    "sources": [
+        {
+            "type": "paletted_permutations",
+            "textures": [
+                "gun:trims/models/armor/combat",
+                "gun:trims/models/armor/combat_leggings",
+				"gun:trims/models/armor/scout",
+                "gun:trims/models/armor/scout_leggings"
+            ],
+            "palette_key": "gun:trims/color_palettes/trim_palette",
+            "permutations": {
+                "natural_1": "gun:trims/color_palettes/natural_1",
+				"natural_2": "gun:trims/color_palettes/natural_2",
+				"natural_3": "gun:trims/color_palettes/natural_3",
+				"team_blue": "gun:trims/color_palettes/team_blue",
+				"team_red": "gun:trims/color_palettes/team_red"
+            }
+        }
+    ]
+}

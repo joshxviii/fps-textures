@@ -1,5 +1,5 @@
 {
-    "parent": "item/guns/generic_gun_aim",
+    "parent": "item/guns/generic_gun_cooldown_2",
     "textures": {
         "layer0": "item/guns/shotgun/shotgun"
     }

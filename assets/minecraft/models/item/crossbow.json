@@ -61,9 +61,11 @@
         },
 		
 		
-		
-		
-		
+			
+			
+			
+			
+			
 			
 		
 		
@@ -329,45 +331,222 @@
 		
 		{
             "predicate": {
+				"charged": 0,
                 "custom_model_data": 1101
             },
             "model": "item/guns/pistol/pistol_aim"
         },
 		{
             "predicate": {
+				"charged": 1,
+                "custom_model_data": 1101
+            },
+            "model": "item/guns/pistol/pistol_aim_2"
+        },
+		
+		{
+            "predicate": {
+				"charged": 0,
                 "custom_model_data": 1102
             },
             "model": "item/guns/ak/ak_aim"
         },
 		{
             "predicate": {
+				"charged": 1,
+                "custom_model_data": 1102
+            },
+            "model": "item/guns/ak/ak_aim_2"
+        },
+		
+		{
+            "predicate": {
+				"charged": 0,
                 "custom_model_data": 1103
             },
             "model": "item/guns/shotgun/shotgun_aim"
         },
 		{
             "predicate": {
+				"charged": 1,
+                "custom_model_data": 1103
+            },
+            "model": "item/guns/shotgun/shotgun_aim_2"
+        },
+		
+		{
+            "predicate": {
+				"charged": 0,
                 "custom_model_data": 1104
             },
             "model": "item/guns/sniper/sniper_aim"
         },
 		{
             "predicate": {
+				"charged": 1,
+                "custom_model_data": 1104
+            },
+            "model": "item/guns/sniper/sniper_aim_2"
+        },
+
+		{
+            "predicate": {
+				"charged": 0,
                 "custom_model_data": 1105
             },
             "model": "item/guns/rifle/rifle_aim"
         },
 		{
             "predicate": {
+				"charged": 1,
+                "custom_model_data": 1105
+            },
+            "model": "item/guns/rifle/rifle_aim_2"
+        },
+		
+		{
+            "predicate": {
+				"charged": 0,
                 "custom_model_data": 1106
             },
             "model": "item/guns/m13/m13_aim"
         },
 		{
             "predicate": {
+				"charged": 1,
+                "custom_model_data": 1106
+            },
+            "model": "item/guns/m13/m13_aim_2"
+        },
+		
+		{
+            "predicate": {
+				"charged": 0,
                 "custom_model_data": 1107
             },
             "model": "item/guns/rpg/rpg_aim"
+        },
+		{
+            "predicate": {
+				"charged": 1,
+                "custom_model_data": 1107
+            },
+            "model": "item/guns/rpg/rpg_aim_2"
+        },
+		
+		
+		
+		
+		
+		
+		
+		
+		{
+            "predicate": {
+				"charged": 0,
+                "custom_model_data": 2101
+            },
+            "model": "item/guns/pistol/pistol_cooldown"
+        },
+		{
+            "predicate": {
+				"charged": 1,
+                "custom_model_data": 2101
+            },
+            "model": "item/guns/pistol/pistol_cooldown_2"
+        },
+		
+		{
+            "predicate": {
+				"charged": 0,
+                "custom_model_data": 2102
+            },
+            "model": "item/guns/ak/ak_cooldown"
+        },
+		{
+            "predicate": {
+				"charged": 1,
+                "custom_model_data": 2102
+            },
+            "model": "item/guns/ak/ak_cooldown_2"
+        },
+		
+		{
+            "predicate": {
+				"charged": 0,
+                "custom_model_data": 2103
+            },
+            "model": "item/guns/shotgun/shotgun_cooldown"
+        },
+		{
+            "predicate": {
+				"charged": 1,
+                "custom_model_data": 2103
+            },
+            "model": "item/guns/shotgun/shotgun_cooldown_2"
+        },
+		
+		{
+            "predicate": {
+				"charged": 0,
+                "custom_model_data": 2104
+            },
+            "model": "item/guns/sniper/sniper_cooldown"
+        },
+		{
+            "predicate": {
+				"charged": 1,
+                "custom_model_data": 2104
+            },
+            "model": "item/guns/sniper/sniper_cooldown_2"
+        },
+
+		{
+            "predicate": {
+				"charged": 0,
+                "custom_model_data": 2105
+            },
+            "model": "item/guns/rifle/rifle_cooldown"
+        },
+		{
+            "predicate": {
+				"charged": 1,
+                "custom_model_data": 2105
+            },
+            "model": "item/guns/rifle/rifle_cooldown_2"
+        },
+		
+		{
+            "predicate": {
+				"charged": 0,
+                "custom_model_data": 2106
+            },
+            "model": "item/guns/m13/m13_cooldown"
+        },
+		{
+            "predicate": {
+				"charged": 1,
+                "custom_model_data": 2106
+            },
+            "model": "item/guns/m13/m13_cooldown_2"
+        },
+		
+		{
+            "predicate": {
+				"charged": 0,
+                "custom_model_data": 2107
+            },
+            "model": "item/guns/rpg/rpg_cooldown"
+        },
+		{
+            "predicate": {
+				"charged": 1,
+                "custom_model_data": 2107
+            },
+            "model": "item/guns/rpg/rpg_cooldown_2"
         }
+		
+		
+		
     ]
 }
