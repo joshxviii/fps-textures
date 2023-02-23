@@ -151,6 +151,15 @@
                 "custom_model_data": 400
             },
             "model": "item/vehicles/motorcycle/motorcycle_a"
+        },
+
+
+
+		{
+            "predicate": {
+                "custom_model_data": 410
+            },
+            "model": "item/vehicles/atv/atv_a"
         }	
 
 	]

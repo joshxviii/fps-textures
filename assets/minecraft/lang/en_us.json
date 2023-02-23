@@ -8,8 +8,9 @@
   "block.minecraft.weeping_vines": "Rope",
   "item.minecraft.crossbow.projectile": "",
   
-  "death.attack.gun.explosion": "%1$s was blown up",
-  "death.attack.gun.explosion.item": "%1$s was blown up by %2$s using %3$s",
+  "death.attack.gun.explosion": "%1$s was blown up by %2$s",
+  "death.attack.gun.explosion.player": "%1$s was blown up by %2$s",
+  "death.attack.gun.explosion.item": "%1$s was blown up by %2$s",
 
   "death.attack.gun": "%1$s was killed",
   "death.attack.gun.player": "%1$s was killed by %2$s",
@@ -18,7 +19,7 @@
   "death.attack.bullet":"%1$s was shot",
   "death.attack.bullet.player": "%1$s was shot by %2$s",
   "death.attack.bullet.item": "%1$s was shot by %2$s using %3$s",
-  
+    
   
   "offset.max": "\uF820\uF800",
 

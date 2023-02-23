@@ -1,6 +1,6 @@
 {
    "pack": {
-      "pack_format": 12,
+      "pack_format": 13,
       "description": "Adds guns into the game. (Use with the Guns Datapack.)"
    }
 }
